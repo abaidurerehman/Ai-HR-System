@@ -1,8 +1,3 @@
----
-
-# README.md
-
-```
 # AI Recruitment Assistant  
 ### AI-Powered Job Description Generator, Job Posting System & Resume Fit Score Analyzer
 
@@ -235,4 +230,5 @@ All routes include:
 Abaidur-E-Rehman  
 AI Engineer & Machine Learning Developer
 ```
+
 
