@@ -229,6 +229,3 @@ All routes include:
 
 Abaidur-E-Rehman  
 AI Engineer & Machine Learning Developer
-```
-
-
