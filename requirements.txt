@@ -1,0 +1,12 @@
+Flask
+Flask-Cors
+pymongo
+python-dotenv
+
+google-generativeai
+
+PyPDF2
+python-docx
+
+Werkzeug
+pytz
